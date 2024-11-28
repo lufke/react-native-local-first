@@ -66,7 +66,7 @@ const Login = () => {
             gap: 10,
           }}>
           <ActivityIndicator size="large" color="#fff" />
-          <Text style={{ color: '#fff', fontSize: 20 }}>Loading...</Text>
+          <Text style={{ color: '#fff', fontSize: 20 }}>Cargando...</Text>
         </View>
       )}
 
